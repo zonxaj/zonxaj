@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @zonxaj
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning JavaScript
+- My freeCodeCamp Responsive Web Design Certificate: https://www.freecodecamp.org/certification/zonxaj/responsive-web-design
+- My freeCodeCamp Javascript Algorithms and Data Structures Certificate: https://freecodecamp.org/certification/zonxaj/javascript-algorithms-and-data-structures
